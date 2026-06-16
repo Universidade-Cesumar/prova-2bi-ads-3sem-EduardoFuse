@@ -1,4 +1,4 @@
-const API_URL = 'https://6a3099dda7f8866418d63313.mockapi.io/material';
+const API_URL = 'https://6a31bda67bc5e1c61266204a.mockapi.io/av1/estoque';
 
   let allItems = [];
 
